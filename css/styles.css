@@ -1,0 +1,17 @@
+body{background-color: powderblue;}
+
+hr{border-color: gray;
+    border-style: dotted none none none;
+    border-width: 5px;
+    height: 0px;
+    width: 10%;
+  }
+h1{color: #66bfbf;}  
+h3{color: #66bfbf;}  
+
+/* .myname{background-color: gold;}
+.titles{background-color: silver;} */
+
+h1:hover{color: gold;}
+h3:hover{color: gold;}
+a:hover{color: gold;}
